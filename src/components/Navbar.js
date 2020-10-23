@@ -11,7 +11,7 @@ const Navbar = props => (
         Spidey Pass
       </div>
      <div className="spacer" > </div>
-      <ul>
+      <ul className="nav-links">
         <li><a href="/"> Username </a></li>
         <li><a href="/"> Admin </a></li>
       </ul>

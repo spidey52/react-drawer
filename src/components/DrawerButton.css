@@ -21,3 +21,9 @@ height: 2px ;
 background: white;
 border-radius: 2px;
 }
+
+@media(min-width: 768px) {
+  button {
+    display: none;
+  }
+}
